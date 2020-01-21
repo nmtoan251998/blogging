@@ -1,0 +1,9 @@
+{
+	"Print our first code": {
+		"prefix": "hello-world",
+		"body": [
+			"console.log('Hello world!');",
+		],
+		"description": "Generate a console.log statement"
+	}
+}
